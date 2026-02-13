@@ -13,7 +13,7 @@ export default function BambooRestockSite() {
           animate={{ opacity: 1, y: 0 }}
           className="text-5xl font-extrabold mb-4"
         >
-          🐼 Bamboo Restock
+         Bamboo Restock
         </motion.h1>
         <p className="text-xl mb-6">Restocked Finds. Real Savings.</p>
         <Button className="rounded-2xl text-lg px-8 py-6 shadow-lg">
